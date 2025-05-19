@@ -53,7 +53,7 @@ No other vendors receive your data.
 
 ## 5.  Your Choices 🛠️
 
-* **Delete your data** – email **privacy@yourdomain.com**; we will erase
+* **Delete your data** – email **privacy@mydomain.com**; we will erase
   all associated logs within 7 days.  
 * Simply stop using the GPT to end further data collection.
 
@@ -88,9 +88,7 @@ We may update this policy from time to time.  When we do:
 
 Questions or data-deletion requests?
 
-> **Email:** privacy@yourdomain.com  
-> **Mail:** JD Interpreter, Attn: Privacy  
-> 123 Startup Lane, San Jose, CA 95112, USA
+> **Email:** privacy@mydomain.com  
 
 ---
 
